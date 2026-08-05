@@ -1,6 +1,6 @@
 # Employee Management System (EMS)
 
-> **Developed entirely from scratch by [avdeshjadon](https://github.com/avdeshjadon)**
+> **Developed entirely from scratch by ankit**
 
 ## 📖 Overview
 The **Employee Management System (EMS)** is a robust, scalable backend application designed to manage an organization's core workforce data. It provides seamless handling of employee records and departmental structures using a modern Java stack. The system is built with maintainability and enterprise patterns in mind, utilizing the DAO (Data Access Object) design pattern and a well-defined service layer.
@@ -60,8 +60,8 @@ mvn exec:java
 Upon execution, the application will initialize the database (if it doesn't already exist) and run the logic defined in the `Main` class.
 
 ## 👤 Developer Info
-- **Developer:** avdeshjadon
-- **GitHub:** [avdeshjadon](https://github.com/avdeshjadon)
+- **Developer:** ankitkumar
+- **GitHub:** ankit
 
 ---
 *If you find this project useful, feel free to give it a star on GitHub!*
